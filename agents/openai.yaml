@@ -1,0 +1,7 @@
+interface:
+  display_name: "Razbor failov"
+  short_description: "Court-ready renaming and verified image PDFs"
+  default_prompt: "Use $razbor-failov to review this folder, rename its documents for court filing, and assemble any requested image set into a verified PDF."
+policy:
+  allow_implicit_invocation: true
+
